@@ -1,0 +1,35 @@
+.container {
+    text-align: center;
+    margin: 50px auto;
+    padding: 20px;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    max-width: 300px;
+  }
+  
+  h1 {
+    font-size: 22px;
+    margin-bottom: 10px;
+  }
+  
+  h2 {
+    font-size: 14px;
+    margin-bottom: 20px;
+  }
+  
+  .container-menu button{
+    display: block;
+    margin: 0 auto 10px;
+    padding: 10px 20px;
+    background-color: #31d1c4;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .container-menu button img {
+    vertical-align: middle;
+    margin-right: 10px;
+  }

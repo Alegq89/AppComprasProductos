@@ -1,0 +1,6 @@
+CONSTRUCCIÓN APP COMPRAR PRODUCTOS
+1. Definir estructura básica del HTML.
+2. Agregar productos y funciones en JavaScript.
+3. Agregar productos al carrito.
+4. Ver el pedido y mostrar el valor total.
+5. Contador de ventas.
